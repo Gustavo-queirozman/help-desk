@@ -1,7 +1,6 @@
 @extends('/layouts/app')
 @yield('Chamados')
 @section('content')
-
 <!--PESQUISA DE CHAMADO-->
 <header class="flex wrap align-center justify-center" style="width: 100%; box-sizing:border-box; padding:20px 20px; background-color: white; box-shadow: 0 1px 25px rgba(0,0,0,.16);">
     <br>
