@@ -10,7 +10,6 @@
 
 <body class="p-0px m-0px">
     <div class="flex">
-        <!--MENU DESKTOP-->
         <div class="flex column justify-center"
             style="background-color: green; color:white;">
             <img src="../img/home-branco.png" alt="inicio"
@@ -38,7 +37,6 @@
                 <input type="date">
                 <input type="submit" value="Pesquisar">
             </header>
-
             
             <div class="flex wrap align-center justify-center" style="width: 100%; height:100vh; padding:10px; box-sizing:border-box;">
                 <div class="flex column align-center" style="width:100%" id="container">
