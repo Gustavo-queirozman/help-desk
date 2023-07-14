@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [App\Http\Controllers\TicketController::class, 'index']);
+Route::get('/', [App\Http\Controllers\HomeController::class, 'index']);
+Route::get('/tickets', [App\Http\Controllers\TicketController::class, 'index']);
 Route::get('/response', [App\Http\Controllers\ResponseController::class, 'index']);
 Route::get('/information', [App\Http\Controllers\InformationController::class, 'index']);
