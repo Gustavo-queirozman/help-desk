@@ -10,7 +10,7 @@
 </head>
 
 <body class="p-0px m-0px">
-    <div class="flex">
+    <div class="flex" style="height: 100vh;">
         <div class="flex column justify-center" style="background-color: green; color:white;">
             <img src="./assets/img/home-branco.png" alt="inicio" style="width:35px; margin-top:7px; margin-bottom:7px; padding:5px;">
             <img src="./assets/img/perfil-branco.png" alt="usuário" style="width:35px; margin-top:7px; margin-bottom:7px; padding:5px;">
@@ -22,5 +22,4 @@
         </section>
     </div>
 </body>
-
 </html>
