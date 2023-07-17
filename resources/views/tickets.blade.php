@@ -20,9 +20,9 @@
         <div class="flex align-center" style="background-color:  white; border-radius:20px;padding:10px">
             <div>
                 <h3 class="margin-top-0px" style="margin-top:0px">@Gustavo Queiroz -
-                    Nome do
+                    Nome do3,
                     chamado</h3>
-                <div class="flex">
+                <div class="flex" style="display:flex">
                     <div class="flex">
                         <img src="./assets/img/tipo-chamado.png" alt="tipo do chamado" style="height:20px;">
                         <span>x</span>
@@ -49,7 +49,7 @@
         <div class="flex align-center" style="background-color:  white; border-radius:20px;padding:10px">
             <div>
                 <h3 class="margin-top-0px" style="margin-top:0px">@Gustavo Queiroz - Nome do chamado</h3>
-                <div class="flex">
+                <div class="flex" style="display:flex">
                     <div class="flex">
                         <img src="./assets/img/tipo-chamado.png" alt="tipo do chamado" style="height:20px;">
                         <span>x</span>

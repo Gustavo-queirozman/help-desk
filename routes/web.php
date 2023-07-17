@@ -17,3 +17,10 @@ Route::get('/', [App\Http\Controllers\HomeController::class, 'index']);
 Route::get('/tickets', [App\Http\Controllers\TicketController::class, 'index']);
 Route::get('/response', [App\Http\Controllers\ResponseController::class, 'index']);
 Route::get('/information', [App\Http\Controllers\InformationController::class, 'index']);
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
