@@ -20,9 +20,9 @@
 
 <div class="flex wrap align-center justify-center" style="width: 100%; height:100vh; padding:10px; box-sizing:border-box; ">
     <div class="flex column align-center" style="width:100%" id="container">
-        <div class="flex align-center" style="background-color:  white; border-radius:20px;padding:10px">
-            <div class="flex">
-                <h3 class="margin-top-0px" style="margin-top:0px">@Gustavo Queiroz -
+        <div class="flex align-center" style="background-color:  white; border-radius:20px;padding:10px; display:flex;">
+            <div class="flex column">
+                <h3 class="margin-top-0px">@Gustavo Queiroz -
                     Nome do3,
                     chamado
                 </h3>
@@ -52,7 +52,7 @@
         </div>
         <br>
         <div class="flex align-center" style="background-color:  white; border-radius:20px;padding:10px">
-            <div>
+            <div class="flex column">
                 <h3 class="margin-top-0px" style="margin-top:0px">@Gustavo Queiroz - Nome do chamado</h3>
                 <div class="flex" style="display:flex">
                     <div class="flex">
